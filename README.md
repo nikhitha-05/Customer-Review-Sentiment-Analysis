@@ -68,3 +68,9 @@ This project demonstrates how Python and data visualization techniques can be us
 Nikhitha Ari
 
 B.Tech – Computer Science and Engineering
+## Dataset
+Dataset file: Dataset-SA.csv
+File size: 31.8 MB
+
+The dataset is not uploaded to GitHub because it exceeds the 25 MB browser upload limit.
+Please place the dataset inside the dataset folder before running the project.
